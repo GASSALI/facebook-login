@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header { background-color: #3b5998;
+width: 100%;
+height: 100px}
+
+body {margin: 0;
+font-family: helvtice Neue, Helvetica, Arial, sam-serif}
+
+.logo
+{widows: 50%;
+padding-top: 32px}
+
+.login
+{width: 50%;
+float: right;
+}
+
+.logo-text {color: #FFFFFF;
+font-size: 35px;
+font-weight: bold;
+	text-decoration: none;
+font-family: helvtice Neue, Helvetica, Arial, sam-serif;
+margin-left: 200px;
+}
+
+.login-label{color: #FFFFFF;
+font-size: 15px}
+
+
+.loin-ctrl{margin-left: 115px;
+}
+
+
+.forgot-account{
+font-size: 11px;
+text-decoration: none;
+	color: #E3E1E1;
+}
+
+.sub-btn{background:#4267b2;
+color:#FCFCFC;
+cursor: pointer}
+.sub-btn:hover{background-color: #0198F8}
+
+
+.left-sec{width: 36%;
+float: left;
+padding-left: 150px;
+padding-top: 52px}
+
+
+.right-sec{width: 39%;
+float: right;
+padding-top: 45px}
+
+
+
+.main-body
+{background: linear-gradient(white, #D3D8E8);
+width: 100%;
+height: 600px}
+
+
+.image{width: 430px}
+.tagline{color: #03174D}
+.p{font-size: 20px;}
+
+
+.fst-name{width: 180px;
+height: 20px;
+border-radius: 5px;
+border-color:#A09E9E}
+
+
+.surname{width: 150px;
+height: 20px;
+border-radius: 5px;
+border-color:#A09E9E}
+
+
+
+
+.phone-maile{width: 342px;
+height: 20px;
+border-radius: 5px;
+border-color:#A09E9E}
+
+.dob{border-color:#A09E9E;}
+
+
+.item{color:#A3A0A0;
+font-weight: bold}
+
+.policy{font-size: 10px;
+color: #B5B5B5}
+
+.link{text-decoration: none}
+
+.signup{background:#0E8C00;
+	color: #FFFFFF;
+cursor: pointer;border-radius: 5px;
+height: 45px;
+width: 200px;
+font-size: 20px}
+.signup:hover{background-color:#14A804}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
